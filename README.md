@@ -3,6 +3,6 @@
 
 适用于Oculus Rift 和 Quest 需配合 Oculus Link
 
-记得登录你的App Id
+记得登录你的App Id 如果使用Oculus Link开发要注意使用的是你的Rift的ID
 
 Unity 版本 2019.2.14f
