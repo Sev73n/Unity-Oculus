@@ -3,4 +3,6 @@
 
 适用于Oculus Rift 和 Quest 需配合 Oculus Link
 
+记得登录你的App Id
+
 Unity 版本 2019.2.14f
